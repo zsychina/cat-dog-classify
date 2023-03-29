@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 from loader import train_loader, test_loader
 from lenet import LeNet
-from vgg16 import VGG16
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print('Using '+str(device)+"!")
