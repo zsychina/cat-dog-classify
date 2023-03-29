@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+data/
+target/
+alexnet.py
+fcnet.py
+inception.py
+*.ipynb
+tempCodeRunnerFile.py
+vgg16.py
