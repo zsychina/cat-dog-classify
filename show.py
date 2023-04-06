@@ -15,7 +15,7 @@ model = model.to(device)
 weights = torch.load('./target/temp_new.pt')
 model.load_state_dict(weights)
 
-root = r'./data/test/test/'
+root = r'./data/test/'
 imgnames = os.listdir(root)
 imgname = random.choice(imgnames)
 path = os.path.join(root + imgname)
