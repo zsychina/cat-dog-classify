@@ -13,3 +13,4 @@ test.*
 show.py
 vgg16.py
 vgg16_train.py
+show.py
