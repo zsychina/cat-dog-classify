@@ -11,3 +11,5 @@ test.*
 !demo_train.ipynb
 !show.ipynb
 show.py
+vgg16.py
+vgg16_train.py

@@ -9,3 +9,5 @@
 懒得写requirements.txt了，确保你安装了PyTorch, Torchvision, vit-pytorch
 
 省流：训练代码参见 [demo_train.ipynb](./demo_train.ipynb)
+
+进一步省流：推理结果参见 [show.ipynb](./show.ipynb)
